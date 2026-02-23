@@ -55,6 +55,10 @@ export default function Contact(){
           </motion.div>
       
         </div>
+        <br />
+        <br />
+        <br />
+        <br />
       </motion.div>
     );
 }
