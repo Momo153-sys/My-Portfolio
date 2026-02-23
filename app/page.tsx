@@ -9,7 +9,7 @@ import Contact from "./components/Contact";
 export default function Home() {
   return (
     <>
-// Elfsight Website Translator | Untitled Website Translator 
+    
 <script src="https://elfsightcdn.com/platform.js" async></script>
 <div className="elfsight-app-9c0e2806-d48e-40a8-9dfa-47f30cbf037c" data-elfsight-app-lazy></div>
 
