@@ -21,14 +21,18 @@ export default function HeroSection(){
     variants={leftVariant}
   >
     <p>
-      Hello! my name is Mohamed Doumbia. I’m a Computer Engineering student
-      building production-ready web platforms, intelligent AI experiences,
-      and data-driven solutions.
+      MOHAMED SAMBA DOUMBIA
     </p>
+    <p>
+      Junior Software Developer
+    </p>
+    <p>
+      Computer Engineering student building scalable web applications, APIs, and intelligent data-driven systems. 
+        </p>
 
     <div className={styles.HeroButtonContainer}>
       <a href="#projects" className={styles.btnSmall}>
-        Browse my builds
+        View Projects
       </a>
     </div>
   </motion.div>
